@@ -2,11 +2,11 @@
 
 ![track-n-alert](https://github.com/prakash-s-2210/threads-clone/assets/94909544/2f9bdf3d-715f-4c98-91b7-85603c97b6a8)
 
-## Overview:
+## Overview
 
 Pricewise: Elevate your Amazon shopping experience with real-time price tracking, sleek Next.js web design, and smart email notifications – where savings meet simplicity!
 
-## Technologies Used:
+## Technologies Used
 
 - Next.js: React framework for building full-stack web applications. 
 - Mongoose: A MongoDB and Node.js Object Data Modeling (ODM) library that facilitates seamless management of data relationships, enforces schema validation, and serves as a translation bridge between code objects 
